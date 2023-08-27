@@ -1,5 +1,5 @@
 ### 
-<h3 align = "center"> 👋 Hi there, I'm Jerome AKA 64656669.eth </h3>
+<h3 align = "center"> 👋 Hi there, I'm Jerome </h3>
 
 <h3 align = "center" > Product manager, web3 enthusiast and former entrepreneur in esports </h3>
 
