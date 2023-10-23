@@ -10,7 +10,7 @@
   
 - 🌱 I’m currently learning Solidity, and always more about Product management.
   
-- I'm working on many side projects as building a NFT collection and web3 platform.
+- I'm working on many side projects as building a web3 platform empowering gamification features to NFTs communities.
 
 - 🤝 I’m looking to collaborate on any web3, blockchain related project.
   
