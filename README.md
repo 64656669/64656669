@@ -1,7 +1,7 @@
 ### 
 <h3 align = "center"> 👋 Hi there, I'm Jerome </h3>
 
-<h3 align = "center" > Product manager, web3 enthusiast and former entrepreneur in esports </h3>
+<h3 align = "center" > Product Owner & Product Manager, web3 enthusiast and former entrepreneur in esports </h3>
 
 
 ### 
