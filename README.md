@@ -13,8 +13,6 @@
 - I'm working on many side projects as building a web3 platform empowering gamification features to NFTs communities.
 
 - 🤝 I’m looking to collaborate on any web3, blockchain related project.
-  
-- 📫 How to reach me: https://www.linkedin.com/in/jerome-duval-web3/
 
 <h4 align="left">Languages and Tools</h4>
 
